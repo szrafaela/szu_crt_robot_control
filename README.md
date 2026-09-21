@@ -1,2 +1,7 @@
-# szu_crt_robot_control
-Beadandó az Autonóm járművek és robotok programozása tárgyhoz, ROS 2 Humble környezetben.
+# Robot Control
+
+## Autonóm járművek és robotok programozása
+
+Beadandó a tárgyhoz.
+
+A projekt megvalósítása **ROS 2 Humble** környezetben, Python nyelven történik.
