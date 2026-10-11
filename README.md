@@ -71,3 +71,7 @@ flowchart LR
     A[sensor_node] -->|/distance - Range| B[control_node]
     B -->|/robot_status - String| C[Robot állapota]
 ```
+
+## Működés közben
+
+![A két ROS 2 node működése](images/robot_control_demo.png)
